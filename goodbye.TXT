@@ -1,0 +1,2 @@
+print("goodbay World")
+print("goodbay pidorasy")
